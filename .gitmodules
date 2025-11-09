@@ -1,0 +1,6 @@
+[submodule "Checklist-API-Service"]
+	path = Checklist-API-Service
+	url = git@github.com:Raisondetr3/Checklist-API-Service.git
+[submodule "Checklist-DB-Service"]
+	path = Checklist-DB-Service
+	url = git@github.com:Raisondetr3/Checklist-DB-Service.git
